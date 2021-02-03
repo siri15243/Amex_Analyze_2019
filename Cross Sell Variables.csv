@@ -1,0 +1,50 @@
+NAME,LABEL
+AcctAge,Age of Oldest Account
+DDA,Checking Account
+DDABal,Checking Balance
+CashBk,Number Cash Back
+Checks,Number of Checks
+DirDep,Direct Deposit
+NSF,Number Insufficient Fund
+NSFAmt,Amount NSF
+Phone,Number Telephone Banking
+Teller,Teller Visits
+Sav,Saving Account
+SavBal,Saving Balance
+ATM,ATM
+ATMAmt,ATM Withdrawal Amount
+POS,Number Point of Sale
+POSAmt,Amount Point of Sale
+CD,Certificate of Deposit
+CDBal,CD Balance
+IRA,Retirement Account
+IRABal,IRA Balance
+LOC,Line of Credit
+LOCBal,Line of Credit Balance
+ILS,Installment Loan
+ILSBal,Loan Balance
+MM,Money Market
+MMBal,Money Market Balance
+MMCred,Money Market Credits
+MTG,Mortgage
+MTGBal,Mortgage Balance
+CC,Credit Card
+CCBal,Credit Card Balance
+CCPurc,Credit Card Purchases
+SDB,Safety Deposit Box
+Income,Income
+HMOwn,Owns Home
+LORes,Length of Residence
+HMVal,Home Value
+Age,Age
+CRScore,Credit Score
+Moved,Recent Address Change
+InArea,Local Address
+Ins,Insurance Product
+Branch,Branch of Bank
+Res,Area Classification
+Dep,Checking Deposits
+DepAmt,Amount Deposited
+Inv,Investment
+InvBal,Investment Balance
+,
